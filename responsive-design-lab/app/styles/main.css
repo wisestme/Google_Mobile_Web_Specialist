@@ -16,7 +16,7 @@
 /* TODO 4 - use media query */
 @media screen and (max-width: 48rem) {
 	.container .col {
-
+		width: 95%;
 	}
 }
 
