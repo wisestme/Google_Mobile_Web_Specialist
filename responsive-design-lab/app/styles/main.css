@@ -35,4 +35,8 @@
 	flex: 1;
 	padding: 1rem;
 }
+
+.container .col:nth-child(1) {
+	flex: 2;
+}
 /* TODO 5.4 - use media query with Flexbox*/
