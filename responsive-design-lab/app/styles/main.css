@@ -40,3 +40,9 @@
 	flex: 2;
 }
 /* TODO 5.4 - use media query with Flexbox*/
+/*@media screen and (max-width: 48rem) {
+	.container {
+
+		flex-flow: column;
+	}
+}*/
